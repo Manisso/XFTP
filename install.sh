@@ -41,7 +41,7 @@ fi
  echo "#!/bin/bash 
  perl $refdir/XFTP/Xftp.pl" '${1+"$@"}' > xftp;
  chmod +x xftp;
- sudo cp xadmin /usr/bin/;
+ sudo cp xftp /usr/bin/;
  rm xftp;
 
 
