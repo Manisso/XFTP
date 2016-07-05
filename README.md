@@ -23,7 +23,7 @@ Open your terminal and type the following commands:
 
 [✓] $cd Desktop/XFTP-master/
 
-[✓] $perl xftp.pl
+[✓] $perl Xftp.pl
 
 #How to use
 After installation you can use the following commands:
@@ -32,9 +32,9 @@ After installation you can use the following commands:
 
 Ex: root@ root#: xftp ftp.ornl.gov 
 
-[✔] Type on CMD: perl xftp.pl <host>
+[✔] Type on CMD: perl Xftp.pl <host>
 
-Ex: C:/User/Name/Desktop/>perl xftp.pl ftp.ornl.gov 
+Ex: C:/User/Name/Desktop/>perl Xftp.pl ftp.ornl.gov 
 
 
 ![alt tag](http://img15.hostingpics.net/pics/980589Screenshot051610160816042016CET081031.png)
