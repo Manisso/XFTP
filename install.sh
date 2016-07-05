@@ -39,7 +39,7 @@ fi
  echo "";
  git clone https://github.com/Manisso/XFTP.git $refdir/XFTP;
  echo "#!/bin/bash 
- perl $refdir/XFTP/xftp.pl" '${1+"$@"}' > xftp;
+ perl $refdir/XFTP/Xftp.pl" '${1+"$@"}' > xftp;
  chmod +x xftp;
  sudo cp xadmin /usr/bin/;
  rm xftp;
