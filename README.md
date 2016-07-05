@@ -15,9 +15,9 @@ Open your terminal and type the following commands:
 
 [✔] Download Perl.
 
-[✓] Download [Xadmin-master.Zip](https://github.com/Manisso/XFTP/archive/master.zip)
+[✓] Download [XFTP-master.Zip](https://github.com/Manisso/XFTP/archive/master.zip)
 
-[✓] Extract [Xadmin-master.Zip](https://github.com/Manisso/XFTP/archive/master.zip) into Desktop
+[✓] Extract [XFTP-master.Zip](https://github.com/Manisso/XFTP/archive/master.zip) into Desktop
 
 [◉]Open CMD and type the following commands:
 
